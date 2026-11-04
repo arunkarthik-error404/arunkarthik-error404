@@ -1,5 +1,3 @@
-<h3 align="center"><code>arun@github ~ $ whoami</code></h3>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/arunkarthik-error404/arunkarthik-error404/main/assets/terminal-whoami.svg" width="49%" />
   <img src="https://raw.githubusercontent.com/arunkarthik-error404/arunkarthik-error404/main/assets/terminal-wordmark.svg" width="49%" />
@@ -12,13 +10,13 @@
   <img src="https://img.shields.io/badge/Published-ACS%20Applied%20Energy%20Materials-16A34A?style=flat" />
 </p>
 
-<h3 align="center"><code>arun@github ~ $ ./skyline.sh --build</code></h3>
+## 🏙️ Contribution skyline
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/arunkarthik-error404/arunkarthik-error404/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </p>
 
-<h3><code>arun@github ~ $ cat about.md</code></h3>
+## 👋 About
 
 I'm an AI engineer building and shipping production LLM systems: multi-agent orchestration, RAG and hybrid retrieval, and real-time voice agents. I own the full path from prompt and model choice to the FastAPI, PostgreSQL and task-queue infrastructure that serves it.
 
@@ -27,7 +25,7 @@ I like making LLM systems cheaper and more reliable by letting deterministic par
 - **Legal and public-records intelligence platform** (10xScale.ai): FastAPI and TaskIQ/Redis pipelines that turn 1,000+ court and registry PDFs into a normalised PostgreSQL schema, with identity resolution and a Chrome data-collection extension.
 - **AI tutoring and career-readiness platform**: low-latency WebRTC voice tutoring on LiveKit, with adaptive multi-agent routing on AgentFlow and tools exposed through MCP.
 
-<h3><code>arun@github ~ $ ./stack.sh</code></h3>
+## 🛠️ Tech
 
 **GenAI and agents:** LangGraph · LangChain · CrewAI · AgentFlow · MCP/FastMCP · LlamaIndex · RAG · Structured output · Tool calling
 
@@ -40,16 +38,16 @@ I like making LLM systems cheaper and more reliable by letting deterministic par
   <img src="https://skillicons.dev/icons?i=git,githubactions,gcp,aws,java,c&theme=dark" />
 </p>
 
-<h3><code>arun@github ~ $ cat publication.bib</code></h3>
+## 📚 Publication
 
 A. S. Reddy, **A. K. BT**, A. Tiwari, S. Das, A. Bhattacharjee, S. Kanungo. *First-Principles Study of Transition-Metal Doping in Monolayer Black and Blue Phosphorene: A Promising Pathway for High-Performance Electrode Design for Electric Double-Layer Supercapacitors.* ACS Applied Energy Materials, 9(18), 12434–12461, 2026. [doi:10.1021/acsaem.6c01956](https://doi.org/10.1021/acsaem.6c01956)
 
-<h3><code>arun@github ~ $ ./stats.sh</code></h3>
+## 📊 Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=arunkarthik-error404&theme=tokyonight&hide_border=true" />
 </p>
 
-<h3><code>arun@github ~ $ ./snake.sh</code></h3>
+## 🐍 Contribution snake
 
 <img src="https://raw.githubusercontent.com/arunkarthik-error404/arunkarthik-error404/output/github-snake-dark.svg" />
