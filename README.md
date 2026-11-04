@@ -34,7 +34,7 @@ I like making LLM systems cheaper and more reliable by letting deterministic par
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,ts,js,react,docker&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,githubactions,gcp,aws,airflow,pandas,numpy,java,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,githubactions,gcp,aws,java,c&theme=dark" />
 </p>
 
 ## 📚 Publication
@@ -43,9 +43,8 @@ A. S. Reddy, **A. K. BT**, A. Tiwari, S. Das, A. Bhattacharjee, S. Kanungo. *Fir
 
 ## 📊 Stats
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=arunkarthik-error404&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunkarthik-error404&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=arunkarthik-error404&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🐍 Contribution snake
