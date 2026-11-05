@@ -13,7 +13,7 @@
 
 I'm an AI engineer building and shipping production LLM systems: multi-agent orchestration, RAG and hybrid retrieval, and real-time voice agents. I own the full path from prompt and model choice to the FastAPI, PostgreSQL and task-queue infrastructure that serves it.
 
-I like making LLM systems cheaper and more reliable by letting deterministic parsers handle what they can, and keeping the model as the fallback.
+I like building LLM systems that are cost-optimised, reliable and easy to maintain, using the model where it adds real value and simpler, cheaper methods everywhere else.
 
 - **Legal and public-records intelligence platform** (10xScale.ai): FastAPI and TaskIQ/Redis pipelines that turn 1,000+ court and registry PDFs into a normalised PostgreSQL schema, with identity resolution and a Chrome data-collection extension.
 - **AI tutoring and career-readiness platform**: low-latency WebRTC voice tutoring on LiveKit, with adaptive multi-agent routing on AgentFlow and tools exposed through MCP.
