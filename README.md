@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arunkarthik-error404/arunkarthik-error404/main/assets/terminal-whoami.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/arunkarthik-error404/arunkarthik-error404/main/assets/terminal-wordmark.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/arunkarthik-error404/arunkarthik-error404/main/assets/banner.svg" width="100%" />
 </p>
 
 <p align="center">
