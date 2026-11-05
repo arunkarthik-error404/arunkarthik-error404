@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arunkarthik-error404/arunkarthik-error404/main/assets/stars-intro.svg?v=8" width="100%" />
+  <img src="https://raw.githubusercontent.com/arunkarthik-error404/arunkarthik-error404/main/assets/star-portrait.svg" width="100%" />
 </p>
 
 <p align="center">
