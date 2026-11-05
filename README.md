@@ -9,12 +9,6 @@
   <img src="https://img.shields.io/badge/Published-ACS%20Applied%20Energy%20Materials-16A34A?style=flat" />
 </p>
 
-## 🏙️ Contribution skyline
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arunkarthik-error404/arunkarthik-error404/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</p>
-
 ## 👋 About
 
 I'm an AI engineer building and shipping production LLM systems: multi-agent orchestration, RAG and hybrid retrieval, and real-time voice agents. I own the full path from prompt and model choice to the FastAPI, PostgreSQL and task-queue infrastructure that serves it.
