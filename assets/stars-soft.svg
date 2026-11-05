@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="420" viewBox="0 0 1000 420">
 <defs>
 <polygon id="st" points="0.000,-1.000 0.235,-0.324 0.951,-0.309 0.380,0.124 0.588,0.809 0.000,0.400 -0.588,0.809 -0.380,0.124 -0.951,-0.309 -0.235,-0.324" stroke="#fff" stroke-width=".22" stroke-linejoin="round"/>
-<radialGradient id="glow"><stop offset="0" stop-color="#fff" stop-opacity=".95"/><stop offset=".25" stop-color="#fff" stop-opacity=".45"/><stop offset=".6" stop-color="#fff" stop-opacity=".12"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
-<g id="stg"><circle r="3.4" fill="url(#glow)"/><use xlink:href="#st"/></g>
-<g id="dotg"><circle r="3" fill="url(#glow)"/><circle r=".55" fill="#fff"/></g>
+<radialGradient id="glow"><stop offset="0" stop-color="#fff" stop-opacity=".5"/><stop offset=".25" stop-color="#fff" stop-opacity=".2"/><stop offset=".6" stop-color="#fff" stop-opacity=".05"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+<g id="stg"><circle r="2.5" fill="url(#glow)"/><use xlink:href="#st"/></g>
+<g id="dotg"><circle r="2.1" fill="url(#glow)"/><circle r=".55" fill="#fff"/></g>
 <radialGradient id="halo"><stop offset="0" stop-color="#fff" stop-opacity=".85"/><stop offset=".25" stop-color="#bcd6ff" stop-opacity=".35"/><stop offset="1" stop-color="#6a8cff" stop-opacity="0"/></radialGradient>
 <linearGradient id="edge" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#fff"/><stop offset=".9" stop-color="#fff"/><stop offset="1" stop-color="#000"/></linearGradient>
 <linearGradient id="metal" gradientUnits="userSpaceOnUse" x1="0" y1="127" x2="0" y2="177"><stop offset="0" stop-color="#ffffff"/><stop offset=".38" stop-color="#d4d8de"/><stop offset=".52" stop-color="#7b8189"/><stop offset=".66" stop-color="#c4c9d0"/><stop offset="1" stop-color="#f4f6f8"/></linearGradient>
