@@ -4,9 +4,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arun-karthik-0aa085426"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/10xScale.ai-AI%20Software%20Engineer-7C3AED?style=flat" />
-  <img src="https://img.shields.io/badge/BITS%20Pilani-Hyderabad-F59E0B?style=flat" />
-  <img src="https://img.shields.io/badge/Published-ACS%20Applied%20Energy%20Materials-16A34A?style=flat" />
+  <a href="https://arunkarthik.duckdns.org/"><img src="https://img.shields.io/badge/10xScale.ai-AI%20Software%20Engineer-7C3AED?style=flat" /></a>
+  <a href="https://www.bits-pilani.ac.in/hyderabad/"><img src="https://img.shields.io/badge/BITS%20Pilani-Hyderabad-F59E0B?style=flat" /></a>
+  <a href="https://doi.org/10.1021/acsaem.6c01956"><img src="https://img.shields.io/badge/Published-ACS%20Applied%20Energy%20Materials-16A34A?style=flat" /></a>
 </p>
 
 ## 👋 About
